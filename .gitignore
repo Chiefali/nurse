@@ -1,0 +1,29 @@
+.Rproj.user
+# R Project files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Large data files (optional to track)
+*.csv
+*.rds
+*.rda
+!zipcode_demand_data.csv
+!zipcode_demand_data_enhanced.csv
+
+# Temporary / Cache files
+*.tmp
+*.log
+temp/
+cache/
+rsconnect/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# General backup files
+*.bak
+*~
